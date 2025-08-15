@@ -1,0 +1,11 @@
+# Ignorar dados brutos
+data/
+
+# Ignorar checkpoints do Jupyter
+.ipynb_checkpoints/
+
+# Ignorar arquivos temporários do sistema
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
